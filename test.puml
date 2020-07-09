@@ -13,7 +13,7 @@ package "Other Groups" {
 }
 
 package "Another Group" {
-  [Second Component] --> FTP
+  [Third Component] --> FTP
 }
 
 @enduml
