@@ -1,4 +1,4 @@
 # diagrams
 
-![First Diagram](https://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/pcoliveirax/diagrams/master/test.puml)
+![First Diagram](https://www.plantuml.com/plantuml/png/FOqx3W8n34HxJW47sBYdsfkWuBKsbXnlv8_W-2GDrOmqJ_DsZsgHNMuFLfGyA4tkBMBu4y3gfvmSBT_fP7Xfa4R1guEmvdV3nbfXIDLriPti0Rrwa84RpieAS_WJhqMKiNGxwJ7p1m00)
 
